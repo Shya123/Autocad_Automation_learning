@@ -12,3 +12,6 @@ https://pyautocad.readthedocs.io/en/latest/
 ##if you want to see the demo........you can go through this link below:
 https://www.youtube.com/watch?v=AwDL8p2OG-c&t=32s
 
+EPANET OUPUT Easy Plotting and labelling can be done as shown in the demo below...
+https://youtu.be/eNswbPSgYwM
+
